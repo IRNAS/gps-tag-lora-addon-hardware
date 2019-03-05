@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:20:59 PM On 05/03/2019
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Arribada-turtle-gps-tag-lora-addon.PcbDoc]
+   Generated File[Arribada-turtle-gps-tag-lora-addon.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:21:08 PM On 05/03/2019
