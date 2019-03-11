@@ -1,0 +1,1 @@
+Schematic is designed for Lora module E22-900M22S but the footprint is for E22-900M30S. The difference i because there is one pins which is VCC instead of GND
