@@ -11,8 +11,8 @@ Features:
 * LoRa module E22-900M22S (SX1268)
 * on-board SMT LoRa antenna
 
-![board_model](https://github.com/IRNAS/gps-tag-lora-addon-hardware/blob/master/release/gps-tag-lora-addon/v0_2/2-gps-tag-lora-addon-Board%20Assembly/top_Capture.PNG)
-![board_model](https://github.com/IRNAS/gps-tag-lora-addon-hardware/blob/master/release/gps-tag-lora-addon/v0_2/2-gps-tag-lora-addon-Board%20Assembly/bot_Capture.PNG)
+![board_model](https://github.com/IRNAS/gps-tag-lora-addon-hardware/blob/v0_2-22S/release/gps-tag-lora-addon/v0_2-22S/2-gps-tag-lora-addon-Board%20Assembly/top_Capture.PNG)
+
 
 For all documentation please find the [latest relase](https://github.com/IRNAS/gps-tag-lora-addon-hardware/releases).
 
