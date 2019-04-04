@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\vojislav\OneDrive\IRNAS-Common\_NEW-IRNAS-COMMON\opencollar-io\Electronics\gps-tag-lora-addon\gps-tag-lora-addon.PcbDoc
+DRC Rules Export File for PCB: C:\Users\vojislav\OneDrive\IRNAS-Common\_NEW-IRNAS-COMMON\opencollar-io\Electronics\gps-tag-lora-addon-hardware\gps-tag-lora-addon\gps-tag-lora-addon.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
